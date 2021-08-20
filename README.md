@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![toshi-bp's github stats](https://github-readme-stats.vercel.app/api?username=toshi-bp&count_private=true&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi-bp&theme=dracula)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=toshi-bp&theme=dracula)
+
 -->
