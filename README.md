@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=toshi-bp&theme=dracula)
 
 -->
+<p align="left"> 
+  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=toshi-bp&theme=solarized-dark&show_icons=ture&count_private=true" />
+</p>
